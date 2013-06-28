@@ -3,6 +3,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.0.rc2'
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 group :development, :test do
 	gem 'sqlite3'
