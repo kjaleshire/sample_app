@@ -19,6 +19,7 @@ group :test do
 	gem 'selenium-webdriver'
 	gem 'capybara'
 	gem 'terminal-notifier-guard'
+	gem 'factory_girl_rails'
 end
 
 group :production do
