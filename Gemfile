@@ -21,8 +21,6 @@ group :test do
 	gem 'capybara'
 	gem 'terminal-notifier-guard'
 	gem 'factory_girl_rails'
-	gem 'cucumber-rails', :require => false
-	gem 'database_cleaner'
 end
 
 group :production do
