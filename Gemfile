@@ -17,6 +17,7 @@ group :development, :test do
   gem 'guard-spork'
   gem 'childprocess'
   gem 'thin'
+	#gem 'nyan-cat-formatter'
 end
 
 group :test do
