@@ -17,3 +17,5 @@
 
 # Ignore editor-specific files
 /sample_app.sublime-workspace
+
+/Icon*
